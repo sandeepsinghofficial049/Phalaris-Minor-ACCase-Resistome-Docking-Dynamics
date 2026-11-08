@@ -40,8 +40,3 @@ ACCase-Resistome-Docking-Dynamics/
 
 * **Python 3.10+ / 3.13**
 * **Libraries:** `AutoDock Vina`, `PyMOL`, `Biopython`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
-
----
-
-## Citation
-
